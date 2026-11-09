@@ -15,5 +15,10 @@ public class notes {
         System.out.println("Double value: " + d);
         System.out.println("String value: " + str);
         System.out.println("Boolean value: " + bool);
+        // String[] sentences={"All the best","better luck next time","Don't Lose your hope","Time is gold","target acheiver","you can,you did","unStopbable"};
+        int a=10,b=30,c=40,d=80;
+        if(a>b){
+            if(b<c)
+        }
     }
 }
